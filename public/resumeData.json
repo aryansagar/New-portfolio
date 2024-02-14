@@ -1,20 +1,18 @@
 {
   "main": {
     "name": "Rahul Aryan",
-    "occupation": "Frontend Software Developer at FlyNava  and Full-Stack(MERN) Developer",
+    "occupation": "Full Stack Developer at Tekonika Technologies and Full-Stack(MERN) Developer",
     "description": "I eat, sleep and breathe Code",
     "image": "profilepic.jpg",
-    "bio": "Hi, my name is Rahul Aryan. I am a Full Stack Web and Mobile Application Developer and a JavaScript and Artificial Intelligence enthusiast.My primary focus is on building Front End Web Applications, Native Mobile Applications, Integrations, Alexa Skills, and Google Actions.My skillsets include languages like JavaScript,Python,SQL together with frameworks like Django,React JS,React Native,Node JS, and Bootstrap.I do this because I love the process of turning dreams into reality by converting ideas into code. I have a serious passion for designing the top-grade UI’s with working logic to create a dynamic user experience.I have spent the past two years learning top-notch technologies and enhancing my skill sets.On a side note, I love listening music and learning new technologies every day. It is something that allows me to be creative, connect with people, and even just bring people together through debugging.",
+    "bio": "From 'Hello World' to 'Hello, My Name is Rahul Aryan, and am from IIIT-BH. I've Been Working for 3+ Years'! Turning caffeine into code and bugs into distant memories, one 'Eureka!' moment at a time.I specialize in creating robust and user-friendly applications. I am passionate about leveraging innovative solutions to drive impactful results in the ever-evolving tech landscape. Always ready to turn '404 not found' into '200 OK',Love to solve the problems and eager to take the challenging tasks.",
     "contactmessage": "Get in touch with me",
     "email": "aryansagar1996@gmail.com",
     "phone": "+919835702293",
     "address": {
-      "street": "Electronic City",
       "city": "Bengaluru",
-      "state": "Karnataka",
-      "zip": "560100"
+      "state": "Karnataka"
     },
-    "website": "aryansagar.com",
+    "website": "",
     "resumedownload": "",
     "social": [
      
@@ -42,62 +40,61 @@
       {
         "school": "IIIT BHUBANESWAR",
         "degree": "Bachelor's Degree, EEE",
-        "description": "Lack of interest in eee"
+        "graduated": "Sept 2019",
+        "description": "Exploring the Computer Science subjects like Programming Language, Data structures and algorithms and Artificial intelligence and machine learning"
       }
     ],
     "work": [
       {
-        "company": "FlyNava.com",
+        "company": "Tekonika Technology",
+        "title": "Full-Stack Developer",
+        "years":"Jan 2023 - Present",
+        "description":"Collaborated on the development and enhancement of the Admin and Invoice modules within the Whitehill.Contributedtothedesignandimplementationoffrontendcomponentsforthe Admin and Invoice modules. Workedcloselywiththedevelopmentteamtotroubleshootissues,optimize API calls, and improve the overall performance."
+      },
+      {
+        "company": "FlyNava Technology",
         "title": "Front-End Developer",
         "years":"July 2022 - Sept 2022",
-        "description":"Woking with full passion"
+        "description":"Successfully developed and delivered the full front-end application for Loyalty Caravan, ensuring a seamless and user-friendly interface. Collaboratedcloselywiththebackenddevelopmentteam,activelyparticipating in the creation of RESTful APIs to establish smooth communication between the front-end and back-end systems."
       },
      
       {
-        "company": "Freelance",
+        "company": "Freelance and Teaching",
         "title": "Full-Stack Developer",
-        "years":"Mar 2021 - July 2022",
-        "description":"We can build any type of Website and Apps"
+        "years":"sept 2019 - July 2022",
+        "description":"Collaborated on multiple projects involving the design and implementation of APIs, utilizing cutting-edge technologies to ensure seamless integration between frontend and backend systems for web-App.SpecializedindevelopingrobustFull-StackWebApplicationsensuring end-to-end delivery and optimal user experiences across multiple platforms."
 
-      },
-      {
-        "company": "SearchBlox",
-        "title": "Frontend developer",
-        "years": "DEC 2020 - Present",
-        "description":"Woking with full passion"
       }
-     
-     
     ],
     "skills": [
 
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "95%"
       },
       {
         "name": "JavaScript",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "CSS",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "HTML",
-        "level": "85%"
+        "level": "100%"
       },
       {
         "name": "Bootstrap",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "Material Ui",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "Tailwind",
-        "level": "70%"
+        "level": "88%"
       },
       {
         "name": "SCSS",
@@ -105,9 +102,17 @@
       },
       {
         "name":"Mongodb",
-        "level":"70%"
+        "level":"95%"
       },
-    
+      {
+        "name":"Nodejs",
+        "level":"90%"
+       
+     },
+     {
+      "name":"Expressjs",
+      "level":"95%"
+    },
       {
         "name": "Git",
         "level": "85%"
@@ -115,26 +120,17 @@
      
       {
         "name": "FrontEnd Development",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "Full-Stack Development",
-        "level": "70%"
+        "level": "85%"
       },
       {
         "name":"React native",
         "level":"70%"
       },
-      {
-         "name":"Nodejs",
-         "level":"85%"
-        
-      },
-      {
-        "name":"Expressjs",
-        "level":"90%"
-      },
-
+  
       {
         "name":"AWS",
         "level":"60%"
@@ -144,16 +140,20 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Airbnb-clone",
-        "category": "",
-        "image": "Airbnb.jpg",
-        "url": "https://airbnb-clone-a441a.web.app/"
+        "title": "esate app",
+
+        "image": "estate.jpg",
+        "url": "https://realestate-ua4v.onrender.com/",
+        "Technology":"React,Nodejs,Express,Redux",
+        "Description": "Building a Modern Real Estate marketplace the MERN stack with JWT (JSON Web Tokens) and Redux Toolkit involves various steps and functionalities like SignIn, SignUp,OAuth, listing"
       },
       {
         "title": "covid-19 Tracker",
-        "category": "",
         "image":"covid.jpg",
-        "url":"https://covid-19-tracker-f0e20.web.app"
+        "url":"https://covid-19-tracker-f0e20.web.app",
+        "Technologies":"React,Context Api,mUI",
+        "Description": "by using this App can checked any type of cases like increasing ,recovered,deaths of world"
+
       }
      
     ]
